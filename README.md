@@ -18,9 +18,21 @@
 
 ### 🚀 Skills & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,cpp,git,github,vscode,figma" />
-</p>
+<div align="center">
+
+<h3>Languages:</h3>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,php" />
+
+<h3>Frameworks & Libraries:</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap,tailwind" />
+
+<h3>Databases:</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<h3>Developer Tools:</h3>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
+
+</div>
 
 ---
 
@@ -36,7 +48,11 @@
   <a href="https://leetcode.com/adnanimam" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://docs.google.com/document/d/1302o1FwmPYnkNJkWOsKOvtaHwF8TX6S_Rwc2lL9kk54/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-1f425f?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
@@ -44,7 +60,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iAdnanImam&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iAdnanImam&theme=tokyonight" />
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=iAdnanImam&theme=tokyonight" />
 </p>
 
 ---
