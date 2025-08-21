@@ -75,7 +75,8 @@
 
 ### 🧠 Currently Working On
  
-- 📱 Building a chatbot with MERN and Socket.IO  
+- 📱 Building a chatbot with MERN and Socket.IO
+- 📈 Creating Zerodha Clone using MERN 
 - 🧩 Solving DSA Problems (Java/C++)  
 
 ---
