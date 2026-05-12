@@ -68,7 +68,10 @@
 ### 🎨 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAdnanImam&layout=compact&theme=tokyonight&hide=hack" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAdnanImam&layout=compact&theme=tokyonight&hide=hack&langs_count=8&card_width=445&cache_seconds=1800&v=1"
+    alt="Top Languages"
+  />
 </p>
 
 ---
